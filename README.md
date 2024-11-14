@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sensationull/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Sensationull/blog-preview-card)
+- Live Site URL: [https://sensationull.github.io/blog-preview-card/](https://sensationull.github.io/blog-preview-card/)
 
 ## My process
 
